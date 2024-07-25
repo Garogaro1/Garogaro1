@@ -1,4 +1,4 @@
-- 💻 Hi, I’m @Garogaro1, a curious and enthusiastic newbie in the world of coding and tech!
+- 💻 Hi, I’m @Ivan, a curious and enthusiastic newbie in the world of coding and tech!
 - 🔍 I’m interested in learning more about web development, artificial intelligence, and cybersecurity. I'm fascinated by the endless possibilities that technology offers and excited to explore them.
 - 📚 I’m currently learning  Python. I'm also dipping my toes into machine learning and data analysis.
 - 🤝 I’m looking to collaborate on projects that involve building simple web applications, chatbots, or data visualization tools. I'm eager to work with others who share my passion for learning and creating something new.
